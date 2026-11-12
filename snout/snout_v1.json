@@ -1,0 +1,1 @@
+{"graph": "snout_v1.onnx.txt", "external": "snout_v1.weights", "fp32_bytes": 86530588, "parts": ["snout_v1.w0.txt", "snout_v1.w1.txt", "snout_v1.w2.txt", "snout_v1.w3.txt", "snout_v1.w4.txt"]}
