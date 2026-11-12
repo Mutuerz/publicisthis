@@ -1,0 +1,20 @@
+{
+ "graph": "thermo_v1.onnx.txt",
+ "external": "thermo_v1.weights",
+ "fp32_bytes": 87247900,
+ "parts": [
+  "thermo_v1.w0.txt",
+  "thermo_v1.w1.txt",
+  "thermo_v1.w2.txt",
+  "thermo_v1.w3.txt",
+  "thermo_v1.w4.txt"
+ ],
+ "input": "image",
+ "input_shape": [
+  null,
+  384,
+  384,
+  3
+ ],
+ "output": "logits"
+}
