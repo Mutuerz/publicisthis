@@ -1,6 +1,6 @@
 {
-    "name": "is_this_ai",
-    "short_name": "is_this_ai",
+    "name": "Is this AI?",
+    "short_name": "Is this AI?",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#3D3A8C",
